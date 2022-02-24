@@ -1,0 +1,14 @@
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
+div.box{
+    width: 150px;
+    height: 150px;
+    margin: .6rem;
+    background-color: blue;
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+    line-height: 150px;
+}
