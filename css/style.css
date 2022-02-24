@@ -2,12 +2,25 @@ body{
     font-family: "Montserrat", sans-serif;
 }
 
-div.box{
+div.box-blue{
     width: 150px;
     height: 150px;
     margin: .6rem;
     background-color: blue;
     color: white;
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+    line-height: 150px;
+}
+
+div.box-red{
+    width: 150px;
+    height: 150px;
+    margin: .6rem;
+    background-color: red;
+    color: white;
+    font-weight: 700;
     font-size: 2rem;
     text-align: center;
     line-height: 150px;
