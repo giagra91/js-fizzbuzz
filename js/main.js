@@ -1,6 +1,6 @@
 
 let wrapper = document.getElementById("fizzbuzz-wrapper");
-wrapper.classList.add("d-flex", "bg-success", "flex-wrap" );
+wrapper.classList.add("d-flex", "bg-success", "flex-wrap", "justify-content-center" );
 
 
 for (let i = 1; i <= 100; i++) {
