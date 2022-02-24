@@ -37,10 +37,4 @@ for (let i = 1; i <= 100; i++) {
         console.log(i)
     }
 
-    // let newDiv = document.createElement(`div`);
-    // newDiv.classList.add(`box`);
-    // newDiv.innerHTML = i;
-    // wrapper.append(newDiv);
-
-
 }
