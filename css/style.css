@@ -12,6 +12,7 @@ div.box-blue{
     font-weight: 700;
     text-align: center;
     line-height: 150px;
+    border-radius: 20%;
 }
 
 div.box-red{
@@ -24,4 +25,5 @@ div.box-red{
     font-size: 2rem;
     text-align: center;
     line-height: 150px;
+    border-radius: 20%;
 }

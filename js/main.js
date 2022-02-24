@@ -1,10 +1,7 @@
 
 let wrapper = document.getElementById("fizzbuzz-wrapper");
-wrapper.classList.add("d-flex", "bg-success", "flex-wrap", "justify-content-center" );
+wrapper.classList.add("d-flex", "bg-success", "flex-wrap", "justify-content-center", "rounded" );
 
-// document-getElementById("create-cycle").addEventListener("click", function(){
-    
-// })
 
 for (let i = 1; i <= 100; i++) {
 
