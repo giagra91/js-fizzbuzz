@@ -23,6 +23,8 @@ for (let i = 0; i <= 100; i++) {
         wrapper.innerHTML+= `<div class="box-red">` + i + `</div>`;
         console.log(i)
     }
+
+    // Alternativa if - else if
     // if (i % 3 == 0 && i % 5 == 0)
     // {
     //     let newDiv = document.createElement(`div`);
